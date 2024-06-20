@@ -15,7 +15,21 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/doc_app>.
+### You can use the functions of Calc
+#### Sum, Sub, Mult and Div.
 
+```
+Calc.sum(1, 2)
+```
+
+```
+Calc.sub(1, 2)
+```
+
+```
+Calc.mult(1, 2)
+```
+
+```
+Calc.div(1, 2)
+```
